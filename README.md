@@ -10,6 +10,33 @@ HIT137_Assignment2_S1_2025/
 ├─ github_link.txt
 └─ README.md
 ```
+Assignment2/
+│
+├── q1.py
+├── q2.py
+├── q3.py
+│
+├── inputs/
+│   └── dataset.csv
+│
+├── outputs/
+│   ├── encrypted.txt
+│   ├── decrypted.txt
+│   ├── results.csv
+│   └── tree.png
+│
+├── docs/
+│   └── report.docx
+│
+├── tests/
+│   └── test_q1.py
+│
+├── README.md
+├── requirements.txt
+├── AI_Usage_Declaration.txt
+├── .gitignore
+└── CONTRIBUTING.md   (optional)
+
 
 ## Quickstart
 ### Q1 – Cipher
